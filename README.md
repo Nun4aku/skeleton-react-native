@@ -6,3 +6,5 @@
   highlightColor="#dad9d97d"<BR>
   borderRadius={16}<BR>
 /><BR>
+<BR><BR>  
+  import LinearGradient from 'react-native-linear-gradient';<BR><BR>
